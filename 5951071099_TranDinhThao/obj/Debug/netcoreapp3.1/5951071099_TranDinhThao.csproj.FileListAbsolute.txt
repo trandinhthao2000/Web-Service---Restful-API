@@ -1,0 +1,236 @@
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\appsettings.json
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\5951071099_TranDinhThao.exe
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.csprojAssemblyReference.cache
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.AssemblyInfoInputs.cache
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.AssemblyInfo.cs
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.RazorAssemblyInfo.cache
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.RazorAssemblyInfo.cs
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.TagHelpers.input.cache
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.TagHelpers.output.cache
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.RazorCoreGenerate.cache
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.RazorTargetAssemblyInfo.cache
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.RazorTargetAssemblyInfo.cs
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\staticwebassets\5951071099_TranDinhThao.StaticWebAssets.Manifest.cache
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\staticwebassets\5951071099_TranDinhThao.StaticWebAssets.xml
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.csproj.CopyComplete
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\5951071099_TranDinhThao.deps.json
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\5951071099_TranDinhThao.runtimeconfig.json
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\5951071099_TranDinhThao.runtimeconfig.dev.json
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\5951071099_TranDinhThao.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\5951071099_TranDinhThao.pdb
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\5951071099_TranDinhThao.Views.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\5951071099_TranDinhThao.Views.pdb
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.csproj.CoreCompileInputs.cache
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.MvcApplicationPartsAssemblyInfo.cache
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.Views.pdb
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.dll
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.pdb
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.genruntimeconfig.cache
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD1\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\appsettings.json
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\5951071099_TranDinhThao.exe
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\5951071099_TranDinhThao.deps.json
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\5951071099_TranDinhThao.runtimeconfig.json
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\5951071099_TranDinhThao.runtimeconfig.dev.json
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\5951071099_TranDinhThao.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\5951071099_TranDinhThao.pdb
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\5951071099_TranDinhThao.Views.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\5951071099_TranDinhThao.Views.pdb
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.csprojAssemblyReference.cache
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.AssemblyInfoInputs.cache
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.AssemblyInfo.cs
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.csproj.CoreCompileInputs.cache
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.MvcApplicationPartsAssemblyInfo.cache
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.RazorAssemblyInfo.cache
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.RazorAssemblyInfo.cs
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.TagHelpers.input.cache
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.TagHelpers.output.cache
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.RazorCoreGenerate.cache
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.RazorTargetAssemblyInfo.cache
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.RazorTargetAssemblyInfo.cs
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.Views.pdb
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.csproj.CopyComplete
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\staticwebassets\5951071099_TranDinhThao.StaticWebAssets.Manifest.cache
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\staticwebassets\5951071099_TranDinhThao.StaticWebAssets.xml
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.dll
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.pdb
+D:\HOCTAP\VD3\5951071099_TranDinhThao\obj\Debug\netcoreapp3.1\5951071099_TranDinhThao.genruntimeconfig.cache
